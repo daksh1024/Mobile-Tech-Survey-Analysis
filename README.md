@@ -27,6 +27,6 @@ To enhance readability and facilitate better organization of the analysis, it ha
 
 ## Data Story Link
 
-Data story starts on the following link: https://wishful-continent.notion.site/Mobile-Technology-Survey-Analysis-ae1e89df97e949ad82f4591b245d3f07
+Data story starts on the following link: https://wishful-continent.notion.site/Mobile-Technology-Survey-Analysis-ae1e89df97e949ad82f4591b245d3f07.
 Each section defined in the guiding question has it's own page and can be found at the bottom of the introduction page (given above).
 
